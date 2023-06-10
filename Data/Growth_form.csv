@@ -1,0 +1,361 @@
+Species,Growth_Form,Status
+Anemone_canadensis,Herbaceous perennial,Native
+Anemone_cylindrica,Herbaceous perennial,Native
+Anemone_quinquefolia,Herbaceous perennial,Native
+Anemone_virginiana,Herbaceous perennial,Native
+Arisaema_dracontium,Herbaceous perennial,Native
+Arisaema_triphyllum,Herbaceous perennial,Native
+Aristolochia_macrophylla,Vine perennial,Native
+Aristolochia_serpentaria,Herbaceous perennial,Native
+Hexastylis_arifolia,Herbaceous perennial,Native
+Hexastylis_virginica,Herbaceous perennial,Native
+Asimina_angustifolia,Woody,Native
+Asimina_parviflora,Woody,Native
+Asimina_triloba,Woody,Native
+Calopogon_pallidus,Herbaceous perennial,Native
+Calopogon_tuberosus,Herbaceous perennial,Native
+Chamaecrista_fasciculata,Herbaceous annual,Native
+Chamaecrista_nictitans,Herbaceous annual,Native
+Clematis_crispa,Vine perennial,Native
+Clematis_occidentalis,Vine perennial,Native
+Clematis_reticulata,Vine perennial,Native
+Clematis_viorna,Vine perennial,Native
+Clematis_virginiana,Vine perennial,Native
+Clintonia_borealis,Herbaceous perennial,Native
+Clintonia_umbellulata,Herbaceous perennial,Native
+Dicentra_canadensis,Herbaceous perennial,Native
+Dicentra_cucullaria,Herbaceous perennial,Native
+Erythronium_americanum,Herbaceous perennial,Native
+Erythronium_umbilicatum,Herbaceous perennial,Native
+Halesia_carolina,Woody,Native
+Halesia_diptera,Woody,Native
+Halesia_tetraptera,Woody,Native
+Helenium_amarum,Herbaceous annual,Native
+Helenium_autumnale,Herbaceous perennial,Native
+Helenium_flexuosum,Herbaceous perennial,Native
+Helenium_pinnatifidum,Herbaceous perennial,Native
+Helenium_vernale,Herbaceous perennial,Native
+Anemone_hepatica,Herbaceous perennial,Native
+Hibiscus_aculeatus,Herbaceous perennial,Native
+Hibiscus_laevis,Herbaceous perennial,Native
+Hibiscus_moscheutos,Herbaceous annual,Native
+Hibiscus_trionum,Herbaceous annual,Introduced
+Hibiscus_syriacus,Woody,Introduced
+Iris_cristata,Herbaceous perennial,Native
+Iris_hexagona,Herbaceous perennial,Native
+Iris_prismatica,Herbaceous perennial,Native
+Iris_pseudacorus,Herbaceous perennial,Introduced
+Iris_verna,Herbaceous perennial,Native
+Iris_versicolor,Herbaceous perennial,Native
+Iris_virginica,Herbaceous perennial,Native
+Lilium_canadense,Herbaceous perennial,Native
+Lilium_catesbaei,Herbaceous perennial,Native
+Lilium_philadelphicum,Herbaceous perennial,Native
+Lilium_superbum,Herbaceous perennial,Native
+Mimosa_microphylla,Herbaceous perennial,Native
+Mimosa_quadrivalvis,Herbaceous perennial,Native
+Mimosa_strigillosa,Herbaceous perennial,Native
+Opuntia_humifusa,Woody,Native
+Opuntia_megacantha,Woody,Introduced
+Opuntia_pusilla,Woody,Native
+Opuntia_stricta,Woody,Native
+Passiflora_incarnata,Herbaceous perennial,Native
+Passiflora_lutea,Herbaceous perennial,Native
+Passiflora_suberosa,Herbaceous perennial,Native
+Phlox_amoena,Herbaceous perennial,Native
+Phlox_carolina,Herbaceous perennial,Native
+Phlox_divaricata,Herbaceous perennial,Native
+Phlox_drummondii,Herbaceous annual,Native
+Phlox_glaberrima,Herbaceous perennial,Native
+Phlox_nivalis,Herbaceous perennial,Native
+Phlox_paniculata,Herbaceous perennial,Native
+Phlox_pilosa,Herbaceous perennial,Native
+Phlox_stolonifera,Herbaceous perennial,Native
+Phlox_subulata,Herbaceous perennial,Native
+Physalis_angulata,Herbaceous annual,Native
+Physalis_angustifolia,Herbaceous perennial,Native
+Physalis_heterophylla,Herbaceous perennial,Native
+Physalis_longifolia,Herbaceous perennial,Native
+Physalis_pubescens,Herbaceous annual,Native
+Physalis_walteri,Herbaceous perennial,Native
+Rosa_blanda,Woody,Native
+Rosa_carolina,Woody,Native
+Rosa_nitida,Woody,Native
+Rosa_palustris,Woody,Native
+Rosa_virginiana,Woody,Native
+Rudbeckia_fulgida,Herbaceous perennial,Native
+Rudbeckia_hirta,Herbaceous annual,Native
+Rudbeckia_laciniata,Herbaceous perennial,Native
+Rudbeckia_triloba,Herbaceous perennial,Native
+Sabatia_angularis,Herbaceous annual,Native
+Sabatia_brevifolia,Herbaceous annual,Native
+Sabatia_calycina,Herbaceous perennial,Native
+Sabatia_campanulata,Herbaceous perennial,Native
+Sabatia_bartramii,Herbaceous annual,Native
+Sabatia_difformis,Herbaceous perennial,Native
+Sabatia_dodecandra,Herbaceous perennial,Native
+Sabatia_grandiflora,Herbaceous annual,Native
+Sabatia_stellaris,Herbaceous annual,Native
+Sarracenia_flava,Herbaceous perennial,Native
+Sarracenia_minor,Herbaceous perennial,Native
+Sarracenia_psittacina,Herbaceous perennial,Native
+Sarracenia_purpurea,Herbaceous perennial,Native
+Styrax_americanus,Woody,Native
+Styrax_grandifolius,Woody,Native
+Trillium_catesbaei,Herbaceous perennial,Native
+Trillium_cernuum,Herbaceous perennial,Native
+Trillium_cuneatum,Herbaceous perennial,Native
+Trillium_erectum,Herbaceous perennial,Native
+Trillium_grandiflorum,Herbaceous perennial,Native
+Trillium_maculatum,Herbaceous perennial,Native
+Trillium_rugelii,Herbaceous perennial,Native
+Trillium_undulatum,Herbaceous perennial,Native
+Trillium_vaseyi,Herbaceous perennial,Native
+Uvularia_grandiflora,Herbaceous perennial,Native
+Uvularia_perfoliata,Herbaceous perennial,Native
+Uvularia_puberula,Herbaceous perennial,Native
+Uvularia_sessilifolia,Herbaceous perennial,Native
+Aquilegia_canadensis,Herbaceous perennial,Native
+Bidens_vulgata,Herbaceous annual,Native
+Celastrus_orbiculatus,Vine perennial,Introduced
+Centaurea_stoebe,Herbaceous perennial,Introduced
+Cirsium_arvense,Herbaceous perennial,Introduced
+Cirsium_discolor,Herbaceous perennial,Native
+Geranium_maculatum,Herbaceous perennial,Native
+Geranium_robertianum,Herbaceous perennial,Native
+Hemerocallis_fulva,Herbaceous perennial,Introduced
+Impatiens_capensis,Herbaceous annual,native
+Lonicera_bella,Woody,Introduced
+Lonicera_canadensis,Woody,native
+Lonicera_japonica,Woody,Introduced
+Malus_pumila,Woody,Introduced
+Malva_neglecta,Herbaceous annual,Introduced
+Oenothera_perennis,Herbaceous perennial,Native
+Orobanche_uniflora,Herbaceous annual,Native
+Rosa_gallica,Woody,Introduced
+Rubus_odoratus,Woody,Native
+Sisyrinchium_mucronatum,Herbaceous perennial,Native
+Solanum_rostratum,Herbaceous annual,Native
+Abutilon_theophrasti,Herbaceous annual,Introduced
+Agrostemma_githago,Herbaceous annual,Introduced
+Albizia_julibrissin,Woody,Introduced
+Allamanda_cathartica,Vine perennial,Introduced
+Anagallis_arvensis,Herbaceous annual,Introduced
+Asarum_canadense,Herbaceous perennial,Native
+Asemeia_violacea,Herbaceous annual,Native
+Asimina_incana,Woody,Native
+Asimina_obovata,Woody,Native
+Asimina_pygmea,Woody,Native
+Asimina_reticulata,Woody,Native
+Asimina_spatulata,Woody,Native
+Bignonia_capreolata,Vine perennial,Native
+Calopogon_barbatus,Herbaceous perennial,Native
+Calycanthus_floridus,Woody,Native
+Calystegia_catesbeiana,Herbaceous perennial,Native
+Calystegia_sepium,Herbaceous perennial,Native
+Calystegia_silvatica,Herbaceous perennial,Native
+Calystegia_spithamaea,Herbaceous perennial,Native
+Campsis_radicans,Vine perennial,Native
+Canna_flaccida,Herbaceous perennial,Native
+Catalpa_bignonioides,Woody,Native
+Catalpa_speciosa,Woody,Native
+Catharanthus_roseus,Herbaceous annual,Introduced
+Centrosema_virginianum,Herbaceous perennial,Native
+Chimaphila_umbellata,Woody,Native
+Cladrastis_kentukea,Woody,Native
+Claytonia_caroliniana,Herbaceous perennial,Native
+Claytonia_virginica,Herbaceous perennial,Native
+Clinopodium_coccineum,Woody,Native
+Clitoria_mariana,Herbaceous perennial,Native
+Coreopsis_auriculata,Herbaceous perennial,Native
+Coreopsis_basalis,Herbaceous annual,Native
+Coreopsis_gladiata,Herbaceous perennial,Native
+Coreopsis_grandiflora,Herbaceous perennial,Native
+Coreopsis_lanceolata,Herbaceous perennial,Native
+Coreopsis_leavenworthii,Herbaceous perennial,Native
+Coreopsis_linifolia,Herbaceous perennial,Native
+Coreopsis_major,Herbaceous perennial,Native
+Coreopsis_nudata,Herbaceous perennial,Native
+Coreopsis_rosea,Herbaceous perennial,Native
+Coreopsis_tinctoria,Herbaceous annual,Native
+Coreopsis_tripteris,Herbaceous perennial,Native
+Coreopsis_verticillata,Herbaceous perennial,Native
+Crinum_americanum,Herbaceous perennial,Native
+Datura_stramonium,Herbaceous annual,Introduced
+Dirca_palustris,Woody,Native
+Distimake_dissectus,Woody,Native
+Dodecatheon_meadia,Herbaceous perennial,Native
+Eustoma_exaltatum,Herbaceous annual,Native
+Galactia_regularis,Herbaceous perennial,Native
+Gelsemium_rankinii,Vine perennial,Native
+Gelsemium_sempervirens,Woody,Native
+Geum_aleppicum,Herbaceous perennial,Native
+Geum_canadense,Herbaceous perennial,Native
+Geum_laciniatum,Herbaceous perennial,Native
+Geum_macrophyllum,Herbaceous perennial,Native
+Geum_peckii,Herbaceous perennial,Native
+Geum_rivale,Herbaceous perennial,Native
+Geum_virginianum,Herbaceous perennial,Native
+Gordonia_lasianthus,Woody,Native
+Helianthus_angustifolius,Herbaceous perennial,Native
+Helianthus_annuus,Herbaceous annual,Native
+Helianthus_atrorubens,Herbaceous perennial,Native
+Helianthus_debilis,Herbaceous annual,Native
+Helianthus_decapetalus,Herbaceous perennial,Native
+Helianthus_divaricatus,Herbaceous perennial,Native
+Helianthus_giganteus,Herbaceous perennial,Native
+Helianthus_hirsutus,Herbaceous perennial,Native
+Helianthus_laetiflorus,Herbaceous perennial,Native
+Helianthus_radula,Herbaceous perennial,Native
+Helianthus_strumosus,Herbaceous perennial,Native
+Hexastylis_heterophylla,Herbaceous perennial,Native
+Hexastylis_shuttleworthii,Herbaceous perennial,Native
+Houstonia_caerulea,Herbaceous perennial,Native
+Houstonia_purpurea,Herbaceous perennial,Native
+Houstonia_pusilla,Herbaceous annual,Native
+Hypericum_ascyron,Herbaceous perennial,Native
+Illicium_floridanum,Woody,Native
+Impatiens_pallida,Herbaceous annual,Native
+Ionactis_linariifolius,Herbaceous perennial,Native
+Ipomoea_alba,Herbaceous annual,Native
+Ipomoea_coccinea,Herbaceous annual,Introduced
+Ipomoea_cordatotriloba,Herbaceous perennial,Native
+Ipomoea_hederacea,Herbaceous annual,Introduced
+Ipomoea_hederifolia,Herbaceous annual,Native
+Ipomoea_indica,Herbaceous annual,Introduced
+Ipomoea_lacunosa,Herbaceous annual,Native
+Ipomoea_pandurata,Herbaceous perennial,Native
+Ipomoea_pescaprae,Herbaceous perennial,Native
+Ipomoea_purpurea,Herbaceous annual,Introduced
+Ipomoea_quamoclit,Herbaceous annual,Introduced
+Ipomoea_sagittata,Herbaceous perennial,Native
+Lathyrus_japonicus,Herbaceous perennial,Native
+Lathyrus_palustris,Herbaceous perennial,Native
+Leucaena_leucocephala,Woody,Introduced
+Linnaea_borealis,Herbaceous perennial,Native
+Lobelia_dortmanna,Herbaceous perennial,Native
+Lobelia_flaccidifolia,Herbaceous annual,Native
+Lobelia_glandulosa,Herbaceous perennial,Native
+Lobelia_homophylla,Herbaceous perennial,Native
+Lobelia_kalmii,Herbaceous perennial,Native
+Lonicera_sempervirens,Vine perennial,Native
+Maianthemum_stellatum,Herbaceous perennial,Native
+Maianthemum_trifolium,Herbaceous perennial,Native
+Menyanthes_trifoliata,Herbaceous perennial,Native
+Mimulus_alatus,Herbaceous perennial,Native
+Mimulus_ringens,Herbaceous perennial,Native
+Mitchella_repens,Herbaceous perennial,Native
+Moneses_uniflora,Herbaceous perennial,Native
+Narcissus_poeticus,Herbaceous perennial,Introduced
+Narcissus_pseudonarcissus,Herbaceous perennial,Introduced
+Nelumbo_lutea,Herbaceous perennial,Native
+Nothoscordum_bivalve,Herbaceous perennial,Native
+Nuphar_lutea,Herbaceous perennial,Native
+Nymphaea_odorata,Herbaceous perennial,Native
+Ornithogalum_umbellatum,Herbaceous perennial,Introduced
+Orthilia_secunda,Woody,Native
+Oxalis_corniculata,Herbaceous annual,Native
+Oxalis_debilis,Herbaceous perennial,Introduced
+Oxalis_dillenii,Herbaceous perennial,Native
+Oxalis_grandis,Herbaceous annual,Native
+Oxalis_montana,Herbaceous perennial,Native
+Oxalis_rubra,Herbaceous perennial,Introduced
+Oxalis_violacea,Herbaceous perennial,Native
+Parnassia_glauca,Herbaceous perennial,Native
+Paulownia_tomentosa,Woody,Introduced
+Phaseolus_polystachios,Herbaceous perennial,Native
+Phlox_floridana,Herbaceous perennial,Native
+Phlox_maculata,Herbaceous perennial,Native
+Pinguicula_caerulea,Herbaceous perennial,Native
+Pinguicula_lutea,Herbaceous perennial,Native
+Pinguicula_pumila,Herbaceous annual,Native
+Pogonia_ophioglossoides,Herbaceous perennial,Native
+Polygonatum_biflorum,Herbaceous perennial,Native
+Polygonatum_pubescens,Herbaceous perennial,Native
+Primula_mistassinica,Herbaceous perennial,Native
+Pyrola_americana,Woody,Native
+Pyrola_asarifolia,Woody,Native
+Pyrola_chlorantha,Woody,Native
+Pyrola_elliptica,Woody,Native
+Rhizophora_mangle,Woody,Native
+Rubus_arenicola,Woody,Native
+Rubus_argutus,Woody,Native
+Rubus_chamaemorus,Woody,Native
+Rubus_cuneifolius,Woody,Native
+Rubus_elegantulus,Woody,Native
+Rubus_frondosus,Woody,Native
+Rubus_laciniatus,Woody,Introduced
+Rubus_occidentalis,Woody,Native
+Rubus_pubescens,Woody,Native
+Rubus_recurvicaulis,Woody,Native
+Rubus_semisetosus,Woody,Native
+Rubus_trivialis,Woody,Native
+Rubus_vermontanus,Woody,Native
+Ruellia_caroliniensis,Herbaceous perennial,Native
+Sagittaria_australis,Herbaceous perennial,Native
+Sagittaria_calycina,Herbaceous perennial,Native
+Sagittaria_cuneata,Herbaceous perennial,Native
+Sagittaria_engelmanniana,Herbaceous perennial,Native
+Sagittaria_lancifolia,Herbaceous perennial,Native
+Sagittaria_latifolia,Herbaceous perennial,Native
+Sagittaria_montevidensis,Herbaceous perennial,Introduced
+Sagittaria_rigida,Herbaceous perennial,Native
+Sagittaria_teres,Herbaceous perennial,Native
+Sarracenia_rubra,Herbaceous perennial,Native
+Scheuchzeria_palustris,Herbaceous perennial,Native
+Senna_obtusifolia,Herbaceous perennial,Native
+Senna_occidentalis,Herbaceous annual,Introduced
+Silene_caroliniana,Herbaceous perennial,Native
+Silene_dioica,Herbaceous perennial,Introduced
+Silene_latifolia,Herbaceous perennial,Introduced
+Silene_noctiflora,Herbaceous annual,Introduced
+Silene_virginica,Herbaceous perennial,Native
+Sisyrinchium_angustifolium,Herbaceous perennial,Native
+Sisyrinchium_atlanticum,Herbaceous perennial,Native
+Sisyrinchium_fuscatum,Herbaceous perennial,Native
+Sisyrinchium_montanum,Herbaceous perennial,Native
+Sisyrinchium_nashii,Herbaceous perennial,Native
+Sisyrinchium_rosulatum,Herbaceous annual,Native
+Solanum_americanum,Herbaceous annual,Native
+Solanum_carolinense,Herbaceous annual,Native
+Solanum_dulcamara,Herbaceous annual,Introduced
+Solanum_lycopersicum,Herbaceous annual,Introduced
+Solanum_nigrum,Herbaceous annual,Introduced
+Solanum_ptycanthum,Herbaceous annual,Native
+Staphylea_trifolia,Woody,Native
+Stewartia_malacodendron,Woody,Native
+Stewartia_ovata,Woody,Native
+Tribulus_cistoides,Herbaceous perennial,Introduced
+Trientalis_borealis,Herbaceous perennial,Native
+Urena_lobata,Woody,Introduced
+Utricularia_cornuta,Herbaceous annual,Native
+Utricularia_juncea,Herbaceous annual,Native
+Verbascum_blattaria,Herbaceous perennial,Introduced
+Vigna_luteola,Herbaceous perennial,Native
+Viola_adunca,Herbaceous perennial,Native
+Viola_affinis,Herbaceous perennial,Native
+Viola_bicolor,Herbaceous annual,Native
+Viola_brittoniana,Herbaceous perennial,Native
+Viola_canadensis,Herbaceous perennial,Native
+Viola_hastata,Herbaceous perennial,Native
+Viola_hirsutula,Herbaceous perennial,Native
+Viola_labradorica,Herbaceous perennial,Native
+Viola_lanceolata,Herbaceous perennial,Native
+Viola_nephrophylla,Herbaceous perennial,Native
+Viola_odorata,Herbaceous perennial,Introduced
+Viola_pedata,Herbaceous perennial,Native
+Viola_renifolia,Herbaceous perennial,Native
+Viola_rostrata,Herbaceous perennial,Native
+Viola_rotundifolia,Herbaceous perennial,Native
+Viola_selkirkii,Herbaceous perennial,Native
+Viola_septemloba,Herbaceous perennial,Native
+Viola_septentrionalis,Herbaceous perennial,Native
+Viola_striata,Herbaceous perennial,Native
+Viola_tricolor,Herbaceous annual,Introduced
+Viola_triloba,Herbaceous perennial,Native
+Viola_tripartita,Herbaceous perennial,Native
+Viola_walteri,Herbaceous perennial,Native
+Ximenia_americana,Woody,Native
+Zephyranthes_atamasca,Herbaceous perennial,Native
+Zephyranthes_simpsonii,Herbaceous perennial,Native
+Zephyranthes_treatiae,Herbaceous perennial,Native
